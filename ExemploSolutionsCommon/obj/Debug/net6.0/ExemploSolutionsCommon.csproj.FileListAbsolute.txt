@@ -1,0 +1,12 @@
+G:\Meu Drive\.Net\Estrutura-do-Programa\ExemploSolutionsCommon\obj\Debug\net6.0\ExemploSolutionsCommon.csproj.AssemblyReference.cache
+G:\Meu Drive\.Net\Estrutura-do-Programa\ExemploSolutionsCommon\obj\Debug\net6.0\ExemploSolutionsCommon.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\.Net\Estrutura-do-Programa\ExemploSolutionsCommon\obj\Debug\net6.0\ExemploSolutionsCommon.AssemblyInfoInputs.cache
+G:\Meu Drive\.Net\Estrutura-do-Programa\ExemploSolutionsCommon\obj\Debug\net6.0\ExemploSolutionsCommon.AssemblyInfo.cs
+G:\Meu Drive\.Net\Estrutura-do-Programa\ExemploSolutionsCommon\obj\Debug\net6.0\ExemploSolutionsCommon.csproj.CoreCompileInputs.cache
+G:\Meu Drive\.Net\Estrutura-do-Programa\ExemploSolutionsCommon\bin\Debug\net6.0\ExemploSolutionsCommon.deps.json
+G:\Meu Drive\.Net\Estrutura-do-Programa\ExemploSolutionsCommon\bin\Debug\net6.0\ExemploSolutionsCommon.dll
+G:\Meu Drive\.Net\Estrutura-do-Programa\ExemploSolutionsCommon\bin\Debug\net6.0\ExemploSolutionsCommon.pdb
+G:\Meu Drive\.Net\Estrutura-do-Programa\ExemploSolutionsCommon\obj\Debug\net6.0\ExemploSolutionsCommon.dll
+G:\Meu Drive\.Net\Estrutura-do-Programa\ExemploSolutionsCommon\obj\Debug\net6.0\refint\ExemploSolutionsCommon.dll
+G:\Meu Drive\.Net\Estrutura-do-Programa\ExemploSolutionsCommon\obj\Debug\net6.0\ExemploSolutionsCommon.pdb
+G:\Meu Drive\.Net\Estrutura-do-Programa\ExemploSolutionsCommon\obj\Debug\net6.0\ref\ExemploSolutionsCommon.dll
