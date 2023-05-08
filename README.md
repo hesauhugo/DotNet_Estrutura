@@ -1,4 +1,4 @@
-# DotNet_Estrutura
+# DotNet Estrutura
 * Fundamentos da linguagem e boas práticas.
 * Demonstrando a estrutura dos programas .NET
 * Solutions, projetos, diferentes versões, class library e entre outros.
